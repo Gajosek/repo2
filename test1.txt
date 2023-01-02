@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 6A55-DC6A
-
- Directory of C:\Users\48662\Desktop\my project
-
-02.01.2023  19:23    <DIR>          .
-02.01.2023  19:23    <DIR>          ..
-02.01.2023  19:23                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   2ÿ217ÿ734ÿ144 bytes free
+change 1
